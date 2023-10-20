@@ -1,0 +1,1 @@
+print("Viernes en AIPython")
